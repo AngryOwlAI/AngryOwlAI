@@ -15,7 +15,7 @@
 
 **AngryOwl** is a place where humans use the power of AI to advance science and empower humanity.
 
-The owl watches. The owl learns. The owl builds — with purpose, for the good of humanity.
+The owl watches. The owl learns. The owl builds — with purpose, for the good of all mankind.
 
 ## Mission
 
