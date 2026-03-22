@@ -13,7 +13,7 @@
 
 ## 🦉 About
 
-**AngryOwl** is an AI-focused project hub founded by [Alexander Ricciardi (Omega.py)](https://github.com/Omegapy). It is a place where humans use the power of AI to advance science and empower humanity.
+**AngryOwl** is a place where humans use the power of AI to advance science and empower humanity.
 
 The owl watches. The owl learns. The owl builds — with purpose, for the good of humanity.
 
