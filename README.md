@@ -61,7 +61,7 @@ Add projects as they are created:
 
 <img width="157.25" height="128" align="center" alt="AngryOwl Logo" src="https://github.com/user-attachments/assets/0f721373-2a9a-46c4-8f23-f164998bfbdf">
 
-**AngryOwl** — *Advancing AI to Empower Humanity* 🦉![Uploading AngryOwl_main.svg…]()
+**AngryOwl** — *Advancing AI to Empower Humanity* 
 
 
 </div>
