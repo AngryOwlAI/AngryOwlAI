@@ -21,7 +21,7 @@ The owl watches. The owl learns. The owl builds — with purpose, for the good o
 
 > **Advancing AI to Empower Humanity**
 >
-> The owls believe artificial intelligence should be a force for good, a tool that amplifies human potential, solves real-world problems, and remains accessible to everyone. Every project here is built with that intent.
+> The owls believe artificial intelligence should be a force for good, a tool that amplifies human potential, solves real-world problems, and remains accessible to everyone.
 
 ## Projects
 
