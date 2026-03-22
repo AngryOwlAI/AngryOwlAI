@@ -34,7 +34,7 @@ Add projects as they are created:
 | [Project Name](link) | Brief description | ![Status](https://img.shields.io/badge/status-active-brightgreen) |
 -->
 
-## 💻 Tech Stack
+## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -47,7 +47,7 @@ Add projects as they are created:
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-## 👤 The Founder 
+## The Founder 
 
  <a href="https://www.alexomegapy.com" target="_blank"><img width="30" height="30" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></a><b> Alexander Ricciardi</b>
 
