@@ -27,9 +27,7 @@ The owl watches. The owl learns. The owl builds — with purpose, for the good o
 
 | Project                                                                            | Description                                               | Status           |
 |------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------|
-| [The Æther](https://github.com/AngryOwlAI/The-AEther)                              | AI experiment in theoretical physics research. <br> The Codex App with GPT-5.4 at Ultra High reasoning effort was used <br> to investigate whether the Æther-flow interpretation of relativity, <br> a concept formulated by Alaxander Ricciardi, <br> could be developed into a viable interpretation of relativity <br> and expanded into a structured research line.| Inactive       |
-|                                                                                    |                                                           |                  |
-| [The AEther GR Derivation](https://github.com/AngryOwlAI/The-AEther-GR-Derivation) | This repository is the active working repository <br> for The Æther-Flow Interpretation of Relativity. <br> The repository  goal is to derive or General Relativity <br> from The Æther-Flow Interpretation of Relativity theory/concept </br>  using a semi-autonomous AI workflow, employing the Codex App and GPT-5.4 <br> as the primary researcher and drafter under human supervision. | In-Progress      |
+| [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Relativity) | The repository develops and tests The Æther-Flow Interpretation of Relativity as a disciplined exact-relativistic theory package, while exploring whether General Relativity can be derived from it, using an AI-led, human-scaffolded workflow with the Codex App and GPT-5.4 as the primary researcher and drafter. | In-Progress      |
           
 
 <!-- 
@@ -40,8 +38,11 @@ Add projects as they are created:
 ## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+<!-- 
+Comming soon:
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+-->
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
