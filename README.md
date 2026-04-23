@@ -56,13 +56,3 @@ Comming soon:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alex.omegapy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-ricciardi)
 
----
-
-<div align="center">
-
-<img width="157.25" height="128" align="center" alt="AngryOwl Logo" src="https://github.com/user-attachments/assets/0f721373-2a9a-46c4-8f23-f164998bfbdf">
-
-**AngryOwl** — *Advancing AI to Empower Humanity* 
-
-
-</div>
