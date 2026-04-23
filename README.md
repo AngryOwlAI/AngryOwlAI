@@ -2,35 +2,30 @@
 
 [![Founded by](https://img.shields.io/badge/Founded%20by-Alex%20Ricciardi-orange?style=for-the-badge)](https://github.com/Omegapy)
 
----
+> *Building intelligent solutions that serve people, not the other way around.*
 
-*Building intelligent solutions that serve people, not the other way around.*
-
-</div>
-
-## 🦉 About
+## About
 
 **AngryOwl** is a place where humans use the power of AI to advance science and empower humanity.
 
-The owl watches. The owl learns. The owl builds — with purpose, for the good of all mankind.
+> The owl watches. The owl learns. The owl builds — with purpose, for the good of all mankind.
 
 ## Mission
 
-> **Advancing AI to Empower Humanity**
->
+**Advancing AI to Empower Humanity**
+
 > The owls believe artificial intelligence should be a force for good, a tool that amplifies human potential, solves real-world problems, and remains accessible to everyone.
 
 ## Projects
 
-| Project                                                                            | Description                                               | Status           |
-|------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------|
-| [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Relativity) | The repository develops and tests The Æther-Flow Interpretation of Relativity as a disciplined exact-relativistic theory package, while exploring whether General Relativity can be derived from it, using an AI-led, human-scaffolded workflow with the Codex App and GPT-5.4 as the primary researcher and drafter. | In-Progress      |
-          
+> <br>
+> <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/9d3390aa-bb61-4e1b-9b56-4bb7e15cce11" />
+> <br>
+> 
+> [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Relativity)  
+> The repository develops and tests The Æther-Flow Interpretation of Relativity as a disciplined exact-relativistic theory package, while exploring whether General Relativity can be derived from it, using an AI-led, human-scaffolded workflow with the Codex App and GPT-5.4 as the primary researcher and drafter. 
 
-<!-- 
-Add projects as they are created:
-| [Project Name](link) | Brief description | ![Status](https://img.shields.io/badge/status-active-brightgreen) |
--->
+---
 
 ## Tech Stack
 
@@ -48,8 +43,12 @@ Comming soon:
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
+
+---
+
 ## The Founder 
 
+<br>
  <a href="https://www.alexomegapy.com" target="_blank"><img width="30" height="30" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></a><b> Alexander Ricciardi</b>
 
 [![GitHub - Omega.py](https://img.shields.io/badge/Omegapy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omegapy)
