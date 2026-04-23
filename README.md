@@ -1,7 +1,4 @@
-<div align="center">
-<img width="314.5" height="256" align="center" alt="AngryOwl Logo" src="https://github.com/user-attachments/assets/0f721373-2a9a-46c4-8f23-f164998bfbdf">
-
-### Advancing AI to Empower Humanity
+<img width="1774" height="887" alt="AngryOwl-space-banner" src="https://github.com/user-attachments/assets/3ae81bfc-f3e7-4848-8ea9-2146f583fdff" />
 
 [![Founded by](https://img.shields.io/badge/Founded%20by-Alex%20Ricciardi-orange?style=for-the-badge)](https://github.com/Omegapy)
 
