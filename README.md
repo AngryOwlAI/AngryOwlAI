@@ -4,7 +4,7 @@
 
 > *Building intelligent solutions that serve people, not the other way around.*
 
-## About
+##  <img width="38.4" height="41.6" alt="owlwe-idle" src="https://github.com/user-attachments/assets/21a6d410-ed59-4e19-83f4-d8385e7615b1" /> About 
 
 **AngryOwl** is a place where humans use the power of AI to advance science and empower humanity.
 
@@ -16,7 +16,8 @@
 
 > The owls believe artificial intelligence should be a force for good, a tool that amplifies human potential, solves real-world problems, and remains accessible to everyone.
 
-## Projects
+## Projects 
+
 
 > <br>
 > <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/9d3390aa-bb61-4e1b-9b56-4bb7e15cce11" />
