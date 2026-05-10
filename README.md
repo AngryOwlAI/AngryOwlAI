@@ -4,7 +4,7 @@
 
 > *Building intelligent solutions that serve people, not the other way around.*
 
-## About  <img width="38.4" height="41.6" alt="owlwe-idle" align="center" src="https://github.com/user-attachments/assets/21a6d410-ed59-4e19-83f4-d8385e7615b1" />
+## About  
 
 **AngryOwl** is a place where humans use the power of AI to advance science and empower humanity.
 
@@ -46,7 +46,7 @@ Comming soon:
 
 ---
 
-## The Founder 
+## The Founder <img width="38.4" height="41.6" alt="owlwe-idle" align="center" src="https://github.com/user-attachments/assets/21a6d410-ed59-4e19-83f4-d8385e7615b1" />
 
 <br>
  <a href="https://www.alexomegapy.com" target="_blank"><img width="30" height="30" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></a><b> Alexander Ricciardi</b>
