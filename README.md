@@ -4,7 +4,7 @@
 
 > *Building intelligent solutions that serve people, not the other way around.*
 
-##  <img width="38.4" height="41.6" alt="owlwe-idle" src="https://github.com/user-attachments/assets/21a6d410-ed59-4e19-83f4-d8385e7615b1" /> About 
+## About  <img width="38.4" height="41.6" alt="owlwe-idle"  align="right" src="https://github.com/user-attachments/assets/21a6d410-ed59-4e19-83f4-d8385e7615b1" />
 
 **AngryOwl** is a place where humans use the power of AI to advance science and empower humanity.
 
