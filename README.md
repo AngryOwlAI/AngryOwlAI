@@ -1,4 +1,5 @@
-<img width="1774" height="887" alt="AngryOwl-space-banner" src="https://github.com/user-attachments/assets/3ae81bfc-f3e7-4848-8ea9-2146f583fdff" />
+<img width="1672" height="941" alt="AngryOwl-space-banne" src="https://github.com/user-attachments/assets/96c1f0ea-9338-4657-9a3f-eb50cce863ca" />
+
 
 [![Founded by](https://img.shields.io/badge/Founded%20by-Alex%20Ricciardi-orange?style=for-the-badge)](https://github.com/Omegapy)
 
