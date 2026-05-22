@@ -21,7 +21,7 @@
 ## Projects <!-- <img width="38.4" height="41.6" alt="owlwe-waving" align="right" src="https://github.com/user-attachments/assets/2c0dd83f-806f-4894-aaa8-48505114a932" /> -->
 
 > <br>
-> <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/ef6dd491-47d1-4691-bac8-104a51c68859" />
+> <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/3f63069e-bd0d-442b-a664-0953d2330806"/>
 > <br>
 > 
 > [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Relativity)  
