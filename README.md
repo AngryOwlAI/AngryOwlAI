@@ -24,7 +24,7 @@
 > <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/3f63069e-bd0d-442b-a664-0953d2330806"/>
 > <br>
 > 
-> [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Relativity)  
+> [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Flow)  
 >The Æther Research Program is a dual physics-and-AI research project.  
 The physics track studies whether ordinary general relativity can be interpreted, and eventually derived, from a deeper four-dimensional Æther / Æther-flow ontology. The current public benchmark keeps GR exactly at observable scale. A first-principles derivation of GR from the ontology remains open.  
 The AI research-agent track develops and tests a human-scaffolded research-agent system for theoretical physics. The AI system is not a new LLM. It is a research workflow: agent roles, routing rules, claim gates, manuscript tools, negative-result handling, review discipline, and scientific memory.
