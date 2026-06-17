@@ -21,7 +21,7 @@
 ## Projects 
 
 > <br>
-> <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/66e04086-f611-43ee-a43f-b5c9486b724e""/>
+> <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/7e79754c-dda5-43fb-8922-28e1f3a226b0""/>
 > <br>
 > 
 > [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Flow)  
