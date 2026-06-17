@@ -18,10 +18,10 @@
 
 > The owls believe artificial intelligence should be a force for good, a tool that amplifies human potential, solves real-world problems, and remains accessible to everyone.
 
-## Projects <!-- <img width="38.4" height="41.6" alt="owlwe-waving" align="right" src="https://github.com/user-attachments/assets/2c0dd83f-806f-4894-aaa8-48505114a932" /> -->
+## Projects 
 
 > <br>
-> <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/3f63069e-bd0d-442b-a664-0953d2330806"/>
+> <img width="724" height="241" alt="readme-banner" src="https://github.com/user-attachments/assets/66e04086-f611-43ee-a43f-b5c9486b724e""/>
 > <br>
 > 
 > [The Æther-Flow Interpretation of Relativity](https://github.com/AngryOwlAI/The-AEther-Flow)  
