@@ -7,12 +7,9 @@
 
 ## About  
 
-
 **AngryOwl** is a place where humans use the power of AI to advance science and empower humanity.
 
-
-<a><img width="38.4" height="41.6" alt="owlwe-idle" align="cented" src="https://github.com/user-attachments/assets/21a6d410-ed59-4e19-83f4-d8385e7615b1" /></a> 
-> The owl watches. The owl learns. The owl builds — with purpose, for the good of all mankind. 
+> <img width="38.4" height="41.6" alt="owlwe-idle" align="cented" src="https://github.com/user-attachments/assets/21a6d410-ed59-4e19-83f4-d8385e7615b1" /> The owl watches. The owl learns. The owl builds — with purpose, for the good of all mankind. 
 
 ## Mission <!-- <img width="38.4" height="41.6" alt="owlwe-waiting" align="right" src="https://github.com/user-attachments/assets/04117380-3629-4d7b-8928-8e318b1a4928" /> -->
 
